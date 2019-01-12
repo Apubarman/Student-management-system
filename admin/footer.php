@@ -1,0 +1,1 @@
+<p class="mt-5 mb-3" style="text-align: center; color: #330014; font-weight: bold;">© 2017-2018</p>
